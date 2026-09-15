@@ -416,7 +416,7 @@ Participants are encouraged to submit structured feedback on:
 - **Implementation Challenges**: Real-world barriers to adoption
 - **Best Practices**: Recommendations for streamlined implementation
 
-👉 [FHIR IG Technical Feedback Sheet](https://docs.google.com/spreadsheets/d/1WU8-8s-SLfpmF04wGHurtX7mRZnqGI2dcPfHgsN7LxA/edit?usp=sharing)
+👉 [FHIR IG Technical Feedback Sheet - Connectathon September 15-17, 2026](https://docs.google.com/spreadsheets/d/1WCRbi2iMevGc5iCd_38H9S-vH7nGNCdp2sx_iIP10M8/edit?gid=0#gid=0)
 
 ---
 
